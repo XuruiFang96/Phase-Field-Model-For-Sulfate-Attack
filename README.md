@@ -1,1 +1,1 @@
-1. Fang, X., Liu, Y. & Xia, Y. A coupled chemo-mechanical phase field model of sulfate induced cracking in concrete with porosity evolution. Engineering Fracture Mechanics 111479 (2025) doi:10.1016/j.engfracmech.2025.111479.
+1. Fang, X., Liu, Y. & Xia, Y. A coupled chemo-mechanical phase field model of sulfate induced cracking in concrete with porosity evolution. Engineering Fracture Mechanics 111479 (2025) (https://doi.org/10.1016/j.engfracmech.2025.111479)
